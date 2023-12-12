@@ -37,6 +37,9 @@ plt.show()
 
 #### PENJELASAN 
 Source Code diatas adalah sebuah script dalam bahasa Python yang menggunakan pustaka Matplotlib untuk membuat diagram garis (line chart) yang menggambarkan persentase pengguna berbagai bahasa pemrograman yang sedang popular pada tahun 2023. Fungsi tight_layout() digunakan agar elemen-elemen plot tidak tumpang tindih. Fungsi show() menampilkan plot secara keseluruhan.
+![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/13e1f487-8ccb-4f66-ab7b-f0bdb5c39bb7)
+
+
 
 ## BAR CHART (GRAFIK BATANG)
 Bar Chart paling cocok untuk komparasi data dengan banyak kategori atau rangkaian data (data series). Untuk kemudahan membaca data, dapat mengurutkan kategori berdasarkan besar nilainya, misal dari nilai tertinggi hingga terendah. Lain halnya dengan data series, di mana data didistribusikan berdasarkan kategori berjenjang, misalnya populasi penduduk berdasarkan rentang usia atau tingkat pendidikan dan penggunaan bahasa pemograman.
@@ -74,6 +77,8 @@ plt.show()
 
 #### PENJELASAN
 Source Code diatas adalah sebuah script dalam bahasa Python yang menggunakan pustaka Matplotlib untuk membuat diagram batang (Bar Chart) yang menggambarkan persentase pengguna berbagai bahasa pemrograman pada tahun 2023. Kode ini kurang lebih sama dengan kode sebelumnya dimana Kode ini mengimpor dua modul dari pustaka Matplotlib, yaitu pyplot untuk membuat plot dan style untuk mengatur gaya plot dan  10 mengatur gaya plot menggunakan gaya ggplot dari Matplotlib. 
+![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/e19c7daf-4152-42e2-b9f2-5fb8003e7944)
+
 
 ## PIE CHART (GRAFIK/DIAGRAM LINGKARAN)
 Pie Chart digunakan untuk menggambarkan komposisi antarbagian pada suatu kesatuan utuh. Bagian ini biasanya direpresentasikan dalam satuan persen sehingga jika seluruh bagian dijumlahkan, hasilnya sama dengan seratus persen. Jenis grafik ini akan mudah dipahami jika kategori yang ditampilkan tidak banyak, misal 5 bagian. Semakin banyak bagiannya, apalagi jika proposinya sangat kecil, akan kian sulit membacanya
@@ -99,6 +104,8 @@ plt.show()
 
 #### PENJELASAN
 Source Code diatas adalah script dalam bahasa Python yang menggunakan pustaka Matplotlib untuk membuat diagram lingkaran (pie chart) yang menggambarkan persentase pengguna berbagai bahasa pemrograman pada tahun 2023.Kodenya pun kurang lebih sama dengan kode sebelumnya seperti Kode ini mengimpor dua modul dari pustaka Matplotlib, yaitu pyplot untuk membuat plot dan style untuk mengatur gaya plot dan Mengatur gaya plot menggunakan gaya 'ggplot' dari Matplotlib. Kemudian Menyediakan data yang akan digunakan untuk membuat plot.
+![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/1966d651-5c51-44de-b802-fcce793b4866)
+
 
 ## GELOMBANG SINUS
 Gelombang sinusoidal adalah salah satu dari bentuk gelombang yang penting di Teknik Elektro. Gelombang sinus sangat penting dalam bidang fisika karena gelombang ini 13 mempertahankan bentuknya ketika ditambahkan kepada gelombang sinus berfrekuensi sama yang lain walaupun fasenya berbeda. Gelombang ini merupakan satu-satunya fungsi periodik yang memiliki sifat ini, menjadikan gelombang ini bagian penting dalam Analisis Fourier.
@@ -142,6 +149,8 @@ plt.show()
 
 #### PENJELASAN
 Source Code diatas adalah membuat plot gabungan yang menggambarkan persentase pengguna bahasa pemrograman pada tahun 2023 dan contoh 15 gelombang sinus. Kode ini mengimpor modul NumPy untuk manipulasi array, dan modul Matplotlib untuk membuat plot dan mengatur gaya plot menggunakan gaya 'ggplot' dari Matplotlib.
+![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/fd1b9af4-c795-42e4-9e02-8ac604e2d284)
+
 
 ## GRAFIK (SEMUA GRAFIK DIDALAM SATU KODE)
 
@@ -193,6 +202,8 @@ plt.show()
 
 #### PENJELASAN
 Source Code diatas adalah membuat empat subplot yang menampilkan berbagai jenis plot berbeda, termasuk line chart, pie chart, Bar Chart, dan plot gelombang sinus. Kode ini mengimpor modul NumPy untuk manipulasi array, dan modul Matplotlib untuk membuat plot dan mengatur gaya plot menggunakan gaya 'ggplot' dari Matplotlib juga menyediakan data yang akan digunakan untuk membuat plot persentase pengguna bahasa pemrograman. Selanjutnya kits dapat membuat data untuk contoh gelombang sinus dengan menggunakan NumPy dan Membuat subplot untuk Line chart yang menampilkan persentase pengguna bahasa pemrograman. Dan selanjutnya kita dapat membuat subplot untuk Pie Chart yang menampilkan persentase pengguna bahasa pemrograman dan kemudian membuat subplot untuk Bar Chart yang menampilkan persentase pengguna bahasa pemrograman dan membuat subplot untuk plot gelombang sinus. Dan selanjutnya yang terakhir Menampilkan semua subplot secara bersamaan. Fungsi tight_layout() digunakan agar elemen-elemen plot tidak tumpang tindih. Fungsi show() menampilkan plot secara keseluruhan.
+![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/a5cd6774-070e-457f-afb3-6ab70625a7a6)
+
 
 
 
