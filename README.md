@@ -4,7 +4,7 @@
 Line chart paling tepat digunakan untuk menunjukkan tren dari waktu ke waktu. Sumbu X biasanya mewakili periode waktu, sumbu Y menggambarkan nilai/kuantitas. Contohnya jumlah penjualan/ penggunaan dari pekan ke pekan selama satu tahun.Grafik ini dapat memuat banyak titik data yang dapat diatur saling berdekatan sesuai kerapatan periode waktu. Karena visualnya yang simpel, bisa menggunakan banyak garis sekaligus dalam satu tampilan. Ini memudahkan penggambaran data tren dari beragam kategori.
 
 | Dokumentasi Kode | Dokumentasi Luaran |
-| --- | --- |
+| ----------- | ----------- |
 | ![Dokumentasi Kode](<img width="429" alt="image" src="https://github.com/suryaningsih608/uas_pbo/assets/136007421/9f179514-42d1-40b3-be1f-3cc7603bd627">) | ![Dokumentasi Luaran](![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/13e1f487-8ccb-4f66-ab7b-f0bdb5c39bb7)) |
 
 
@@ -52,7 +52,7 @@ Source Code diatas adalah membuat plot gabungan yang menggambarkan persentase pe
 ## GRAFIK (SEMUA GRAFIK DIDALAM SATU KODE)
 | Dokumentasi Kode | Dokumentasi Luaran |
 | --- | --- |
-| <img width="353" alt="image" src="https://github.com/suryaningsih608/uas_pbo/assets/136007421/be3c31e9-c709-4344-b16a-303b4f33963e">) | ![Dokumentasi Luaran](![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/a5cd6774-070e-457f-afb3-6ab70625a7a6)) |
+| <img width="353" alt="image" src="https://github.com/suryaningsih608/uas_pbo/assets/136007421/be3c31e9-c709-4344-b16a-303b4f33963e"> | ![Dokumentasi Luaran](![image](https://github.com/suryaningsih608/uas_pbo/assets/136007421/a5cd6774-070e-457f-afb3-6ab70625a7a6)) |
 
 
 #### PENJELASAN
